@@ -1,0 +1,13 @@
+DROP TRIGGER wyzwalacz on Postac;
+DROP function ustawPoziom();
+DROP VIEW widok;
+DROP VIEW widok2;
+DROP TABLE Postac_Przeciwnik;
+DROP TABLE Postac_Przedmiot;
+DROP TABLE Postac_Mapa;
+DROP TABLE Postac;
+DROP TABLE NPC;
+DROP TABLE Przedmiot;
+DROP TABLE Mapa;
+DROP TABLE Fabula;
+DROP TABLE Przeciwnik;
